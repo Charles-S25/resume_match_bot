@@ -1,0 +1,13 @@
+We are hiring a Backend Python Developer at DevPro Systems.
+
+Responsibilities:
+- Design and develop RESTful APIs using Flask or FastAPI
+- Work with PostgreSQL and SQLAlchemy
+- Write unit and integration tests
+- Collaborate with frontend and DevOps teams
+
+Requirements:
+- 2+ years experience in Python backend development
+- Strong understanding of REST architecture
+- Familiarity with Docker, Git, and CI/CD pipelines
+- Experience with Agile methodologies

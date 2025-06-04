@@ -1,0 +1,12 @@
+You are an expert career coach. Analyze the resume and job description below.
+Extract and return:
+1. ✅ Matching Skills
+2. ❌ Missing Skills
+3. ✍️ Suggestions to improve the resume
+4. 📊 Fit Score (out of 100) with a one-line explanation.
+
+Resume:
+{resume}
+
+Job Description:
+{jd}

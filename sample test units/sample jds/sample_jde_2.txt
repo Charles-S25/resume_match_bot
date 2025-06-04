@@ -1,0 +1,15 @@
+Looking for a Junior Data Analyst to join our insights team.
+
+Key Responsibilities:
+- Query data using SQL to extract meaningful insights
+- Build dashboards using Power BI or Tableau
+- Support ad-hoc data analysis requests
+
+Skills Required:
+- Proficient in Excel and SQL
+- Basic knowledge of Python for data analysis
+- Good communication and attention to detail
+
+Preferred:
+- Bachelor’s degree in Statistics, Math, or related field
+- 1–2 years experience in data analysis or internships
